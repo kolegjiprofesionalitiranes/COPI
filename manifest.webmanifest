@@ -1,0 +1,22 @@
+{
+	"dir" : "ltr",
+	"lang" : "en",
+	"name" : "COPI",
+	"scope" : "/",
+	"display" : "browser",
+	"start_url" : "https://www.customeropinion.al/",
+	"short_name" : "COPI",
+	"theme_color" : "transparent",
+	"description" : "Customeropinion.al",
+	"orientation" : "any",
+	"background_color" : "transparent",
+	"related_applications" : "",
+	"prefer_related_applications" : "false",
+	"icons" : [
+		{
+			"src": "https://github.com/gledisqose/YouTube/blob/master/copi%20(1).png?raw=true",
+			"sizes": "2000x1000"
+		}],
+	"screenshots" : [],
+	"generated" : "true"
+}
